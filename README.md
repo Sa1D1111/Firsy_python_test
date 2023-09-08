@@ -1,2 +1,2 @@
-# Firsy_Python_Test_Animation
+#first python test - animation
 A quick Python animation.
