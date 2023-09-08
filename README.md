@@ -1,2 +1,2 @@
-#first python test - animation
+# first python test - animation
 A quick Python animation.
